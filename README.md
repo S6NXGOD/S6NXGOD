@@ -5,10 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjoaopedropinto@gmail.com)](mailto:devjoaopedropinto@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/dev_joaopedro/)](https://www.instagram.com/dev_joaopedro/)
 
-### Hellooo! 👋 Welcome to my profile
+### Opa! 👋 Seja bem vindo
 
-My name is João Pedro and fullstack developer.
-
+Meu nome é João Pedro e atualmente trabalho em uma empresa como desenvolvedor fullstack
  - 💙 In love with JavaScript
  - 🌱 Currently learning Vue.js and Angular
  - 😄 Also UI Designer 
