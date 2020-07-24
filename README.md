@@ -9,5 +9,5 @@
 
 Meu nome é João Pedro e atualmente trabalho em uma empresa como desenvolvedor fullstack
  - 💙 In love with JavaScript
- - 🌱 Currently learning Vue.js and Angular
- - 😄 Also UI Designer 
+ - 🌱 Currently learning Vue.js
+ - 😄 I love programming! 
