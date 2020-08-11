@@ -12,9 +12,9 @@ Sou progamador pleno, trabalhando atualmente na Nextcompany em Teresina-PI, dese
 ## Educação
 
 - 🎓 Licenciatura em Informática (2019 - Atualmente)
-<div align="center">
-## Skills
 
+## Skills
+<div align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java Icon" >
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node Icon" >
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JS Icon" >
