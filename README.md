@@ -12,7 +12,7 @@ Sou progamador pleno, trabalhando atualmente na Nextcompany em Teresina-PI, dese
 ## Educação
 
 - 🎓 Licenciatura em Informática (2019 - Atualmente)
-
+##
 <div align="center">
 
 ## Skills
