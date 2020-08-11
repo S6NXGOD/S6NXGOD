@@ -14,13 +14,13 @@ Sou progamador pleno, trabalhando atualmente na Nextcompany em Teresina-PI, dese
 - 🎓 Licenciatura em Informática (2019 - Atualmente)
 
 ## Skills
-
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java Icon" width="80">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node Icon" width="80">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JS Icon" width="80">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Icon" width="80">
-<img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="Adonis Icon" width="80">
-<img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" alt="Linode Icon" width="80">
+<div align="center">
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java Icon" >
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node Icon" >
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JS Icon" >
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Icon" >
+<img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="Adonis Icon" >
+<img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" alt="Linode Icon" >
 
 ## Github Status
 
