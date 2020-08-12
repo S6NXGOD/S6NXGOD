@@ -24,7 +24,7 @@ Sou progamador pleno, trabalhando atualmente na Nextcompany em Teresina-PI, dese
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Icon" >
 <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" alt="Adonis Icon" >
 <img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" alt="Linode Icon" >
-
+</div>
 ## Github Status
 
 ![Cleysonph Github Stats](https://github-readme-stats.vercel.app/api?username=S6NXGOD&show_icons=true)
